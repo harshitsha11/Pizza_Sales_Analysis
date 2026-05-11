@@ -84,10 +84,10 @@ The project uses 4 CSV files:
 ## 📸 Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshots/Dashboard overview.png)
+![Dashboard overview](Screenshots/Dashboard overview.png)
 
 ### Sales Analysis
-![Sales Analysis](Screenshots/Sales analysis.png)
+![Sales analysis](Screenshots/Sales analysis.png)
 
 ### Tooltip
 ![Tooltip](Screenshots/Tooltip.png)
