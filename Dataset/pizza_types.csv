@@ -1,0 +1,33 @@
+pizza_type_id,name,category
+bbq_ckn,Barbecue Chicken,Chicken
+cali_ckn,California Chicken,Chicken
+ckn_alfredo,Chicken Alfredo,Chicken
+ckn_pesto,Chicken Pesto,Chicken
+southw_ckn,Southwest Chicken,Chicken
+thai_ckn,Thai Chicken,Chicken
+big_meat,Big Meat,Classic
+classic_dlx,Classic Deluxe,Classic
+hawaiian,Hawaiian,Classic
+ital_cpcllo,Italian Capocollo,Classic
+napolitana,Napolitana,Classic
+pep_msh_pep,"Pepperoni, Mushroom, and Peppers",Classic
+pepperoni,Pepperoni,Classic
+the_greek,Greek,Classic
+brie_carre,Brie Carre,Supreme
+calabrese,Calabrese,Supreme
+ital_supr,Italian Supreme,Supreme
+peppr_salami,Pepper Salami,Supreme
+prsc_argla,Prosciutto and Arugula,Supreme
+sicilian,Sicilian,Supreme
+soppressata,Soppressata,Supreme
+spicy_ital,Spicy Italian,Supreme
+spinach_supr,Spinach Supreme,Supreme
+five_cheese,Five Cheese,Veggie
+four_cheese,Four Cheese,Veggie
+green_garden,Green Garden,Veggie
+ital_veggie,Italian Vegetables,Veggie
+mediterraneo,Mediterranean,Veggie
+mexicana,Mexicana,Veggie
+spin_pesto,Spinach Pesto,Veggie
+spinach_fet,Spinach and Feta,Veggie
+veggie_veg,Vegetables + Vegetables,Veggie
