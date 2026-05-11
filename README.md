@@ -1,18 +1,18 @@
-# 🍕 Pizza Sales Analysis Dashboard
+# Pizza Sales Analysis Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on analyzing pizza sales data using Power BI to identify sales trends, customer behavior, top-performing pizzas, and business improvement opportunities.
 
 The dataset was cleaned in Excel and visualized in Power BI using interactive dashboards, slicers, KPIs, and charts.
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Excel (Data Cleaning)
 - Power BI (Dashboard & Visualization)
 - DAX (Measures & KPIs)
 
-## 📂 Dataset Information
+## Dataset Information
 
 The project uses 4 CSV files:
 
@@ -23,7 +23,7 @@ The project uses 4 CSV files:
 | pizza_types.csv | 32 |
 | pizzas.csv | 96 |
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ### Page 1 - Time Analysis
 - KPI Cards
@@ -43,7 +43,7 @@ The project uses 4 CSV files:
 ### Page 3 - Tooltip Page
 - Custom Tooltip Visual connected with charts
 
-## 🔍 Key Insights
+## Key Insights
 
 1. Highest Orders: Afternoon  
 2. Lowest Orders: Morning  
@@ -72,7 +72,7 @@ The project uses 4 CSV files:
    - XXL has negligible demand
    - XL contributes only 1.72% of total sales
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 - Business demand patterns suggest the shop may be located near offices or commercial areas
 - Discontinue XXL and XL pizzas due to extremely low demand
@@ -81,7 +81,7 @@ The project uses 4 CSV files:
 - Launch Christmas and New Year offers in December
 - Add more pizzas around the $50 price range since they generate higher revenue
 
-## 📸 Dashboard Screenshots
+## Dashboard Screenshots
 
 ### Dashboard Overview
 ![Dashboard overview](Screenshots/Dashboard_overview.png)
@@ -92,14 +92,14 @@ The project uses 4 CSV files:
 ### Tooltip
 ![Tooltip](Screenshots/Tooltip.png)
 
-## 📁 Project Files
+## Project Files
 
 - Dataset CSV files
 - Power BI Dashboard (.pbix)
 - Dashboard Screenshots
 - Project Documentation
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Add customer segmentation analysis
 - Add profit margin analysis
